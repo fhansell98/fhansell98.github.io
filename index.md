@@ -41,9 +41,9 @@ test
 
 ![battery image test](battery-icon-clipart-md.png)
 
-![large image test](image_processing20200424-23052-pudem6.png)
+![large image test](image_processing20200424-23052-pudem6.png = 300x300)
 
-![transparent image test](gold-silver-bronze-medals-clipart-md.png)
+![transparent image test](gold-silver-bronze-medals-clipart-md.png = 200x200)
 
 ### An Urban World
 
