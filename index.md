@@ -4,7 +4,7 @@ After a long and stressful season with ... such as Jeevan and Wujun ... ANSYS ..
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Grand Final Results
+### Grand Final (Incomplete) Results
 
 Due to unforseen circumstances, the venue hosting the season 1 grand final had to be last-minute rescheduled to Toker. Unfortunately, the technical 
 
