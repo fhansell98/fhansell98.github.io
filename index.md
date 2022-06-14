@@ -10,9 +10,9 @@ Due to unforseen circumstances, the venue hosting the season 1 grand final had t
 
 ![image](gold-silver-bronze-medals-clipart-md.png)
 
-1. Ellinor (1st, 2nd)
-2. Fredrik H (4th, 1st)
-3. Johan (2nd, 4th)
+1. **Ellinor** (1st, 2nd)
+2. **Fredrik H** (4th, 1st)
+3. **Johan** (2nd, 4th)
 
 ```markdown
 Syntax highlighted code block
@@ -37,11 +37,15 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ## - Best Players By Map -
 ### World / A Diverse World
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fhansell98/fhansell98.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. **x**
+2. **x**
+3. **x**
 
 ### Sweden
 
-test
+1. **x**
+2. **x**
+3. **x**
 
 ![image](gold-silver-bronze-medals-clipart-md2.png)
 
@@ -49,17 +53,21 @@ test
 
 ### An Urban World
 
-text
+1. **x**
+2. **x**
+3. **x**
 
 ### Europe
+
+1. **x**
+2. **x**
+3. **x**
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## - The Good And The **Not** So Good Guesses -
 ### Closest Guesses (World)
 
-Text
 
 ### Furthest Guesses (World)
 
-Text
