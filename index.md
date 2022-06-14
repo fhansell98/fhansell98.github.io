@@ -8,7 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Due to unforseen circumstances, the venue hosting the season 1 grand final had to be last-minute rescheduled to Toker. Unfortunately, the technical 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](gold-silver-bronze-medals-clipart-md.png)
+
+1. Ellinor (1st, 2nd)
+2. Fredrik H (4th, 1st)
+3. Johan (2nd, 4th)
 
 ```markdown
 Syntax highlighted code block
