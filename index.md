@@ -1,4 +1,4 @@
-## A deep dive into the best performing players and key statistics from the first season of the Geoguessr battles held in Trötter, KTH (Sweden)
+## A deep dive into the best performing players and key statistics from the Geoguessr battles held in Trötter, KTH (Sweden)
 
 Welcome to the 
 
