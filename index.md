@@ -45,6 +45,8 @@ test
 
 ![transparent image test](gold-silver-bronze-medals-clipart-md.png = 200x200)
 
+<img src="https://github.com/fhansell98/fhansell98.github.io/blob/main/gold-silver-bronze-medals-clipart-md.png" width="150" height="100"> text
+
 ### An Urban World
 
 text
