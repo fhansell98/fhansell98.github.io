@@ -39,11 +39,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 test
 
-![battery image test](battery-icon-clipart-md.png)
-
-![large image test](image_processing20200424-23052-pudem6.png = 300x300)
-
-![transparent image test](gold-silver-bronze-medals-clipart-md.png = 200x200)
+![image](gold-silver-bronze-medals-clipart-md2.png)
 
 <img src="https://github.com/fhansell98/fhansell98.github.io/blob/main/gold-silver-bronze-medals-clipart-md.png" width="150" height="100"> text
 
