@@ -42,6 +42,9 @@ test
 ![battery image test](battery-icon-clipart-md.png)
 
 ![large image test](image_processing20200424-23052-pudem6.png)
+
+![transparent image test](gold-silver-bronze-medals-clipart-md.png)
+
 ### An Urban World
 
 text
