@@ -1,4 +1,4 @@
-## Trötter Geoguessr Season 1 Results
+## A deep dive into the best performing players and an analysis of the most interesting statistics from season 1 of the Geoguessr battles held in Trötter, KTH (Sweden)
 
 Welcome to the 
 
