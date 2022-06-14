@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Grand Final Results
 
-Due to unforseen circumstances, the venue to hold the season 1 grand final had to be last-minute rescheduled in Toker. Unfortunately, the technical 
+Due to unforseen circumstances, the venue hosting the season 1 grand final had to be last-minute rescheduled to Toker. Unfortunately, the technical 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
