@@ -46,3 +46,12 @@ text
 ### Europe
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## - The Good And The _Not_ So Good Guesses -
+### Closest Guesses (World)
+
+Text
+
+### Furthest Guesses (World)
+
+Text
