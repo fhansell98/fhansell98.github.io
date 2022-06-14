@@ -68,6 +68,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## - The Good And The **Not** So Good Guesses -
 ### Closest Guesses (World)
 
+Images
 
 ### Furthest Guesses (World)
 
+Images
+
+## - Best Players By Continent -
+### Europe
+### North America
+### South America
+### Asia
+### Africa
+### Oceania
