@@ -38,7 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Sweden
 
 text
-[battery image test](battery-icon-clipart-md.png)
+![battery image test](battery-icon-clipart-md.png)
 
 ### An Urban World
 
